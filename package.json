@@ -1,5 +1,5 @@
 {
-  "name": "murim-ninja",
+  "name": "@macbabu/murim-ninja",
   "module": "index.js",
   "type": "module",
   "devDependencies": {

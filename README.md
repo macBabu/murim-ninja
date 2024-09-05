@@ -1,4 +1,4 @@
-# murim-ninja
+# @macbabu/murim-ninja
 
 To install dependencies:
 
