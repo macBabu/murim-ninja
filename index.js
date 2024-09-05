@@ -7,4 +7,4 @@ const MURIM_MOTION = ()=>{
     console.log('무림의 신이 되어라');
 }
 
-export {MURIM_TIME, MURIM_MOTION};
+module.exports = {MURIM_TIME, MURIM_MOTION};
