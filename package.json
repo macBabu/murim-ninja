@@ -1,9 +1,10 @@
 {
   "name": "@macbabu/murim-ninja",
+  "version": "0.1.0",
   "module": "index.js",
   "type": "module",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@macbabu:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/bun": "latest"
