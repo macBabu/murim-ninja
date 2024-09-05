@@ -3,7 +3,7 @@
   "module": "index.js",
   "type": "module",
   "publishConfig": {
-    "@macbabu:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/bun": "latest"
